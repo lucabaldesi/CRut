@@ -1,0 +1,4 @@
+crut
+*.o
+*.test
+cscope.*
